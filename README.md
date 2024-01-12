@@ -2,7 +2,11 @@
 
 Sou obcecado com qualquer coisa que tenha 0 e 1 rodando de fundo. 🧑‍💻
 
-Meu passatempo favorito é tentar escrever assembly 🤓
+Jogo joguinhos e amo ver como eles funcionam (e quebrar eles). 🎮
+
+Procuro colaborações e muitas dicas para incrementar meu conhecimento. 📖
+
+Meu passatempo favorito é tentar escrever Assembly. 🤓
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mindthelab&show_icons=true&theme=radical">
