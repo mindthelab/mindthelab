@@ -15,6 +15,15 @@ sei programar, não sei escrever isso :c
 </div>
   
   <!--START_SECTION:waka-->
+
+```txt
+Dart     31 hrs 6 mins   ████████████████████████▒   97.36 %
+HTML     30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Other    8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+YAML     8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Text     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+```
+
 <!--END_SECTION:waka-->
  
 <div> 
