@@ -1,3 +1,4 @@
+
 ## Olá! meu nome é Pedro!
 
 sei programar, não sei escrever isso :c
@@ -13,9 +14,8 @@ sei programar, não sei escrever isso :c
   <img align="center" alt="Mind-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
-  ##
-  <!--[Snake animation](https://github.com/mindthelab/mindthelab/blob/output/github-contribution-grid-snake.svg)
-  ##!-->
+  <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
  
 <div> 
   <a href="https://www.instagram.com/pedroistrouble" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
