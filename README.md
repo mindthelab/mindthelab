@@ -1,7 +1,7 @@
 
 ## Olá! meu nome é Pedro!
   
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mindthelab_&theme=radical)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mindthelab&theme=radical)
  
 <div> 
   <a href="https://www.instagram.com/pedroistrouble" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
